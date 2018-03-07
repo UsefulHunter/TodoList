@@ -1,6 +1,7 @@
-# TodoList
-A To-Do List, in JavaScript, as a training exercise for the JavaScript language.
+Welcome to Practical JavaScript!
+============================
 
-Using JS, this program will exercise all the basic stuff, also with cooperation of HTML5;
+This is the finished code for Version 9 of the
+application for Practical JavaScript.
 
-Using WatchandCode.com, as a base.
+For more details, visit practicaljavascript.net.
